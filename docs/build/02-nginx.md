@@ -121,6 +121,6 @@ MacのChromeから `ERR_ADDRESS_UNREACHABLE` でアクセスできなかった�
 
 ## スクリーンショット
 
-- [Safariで「Score API」が表示された画面](./images/[ファイル名].png)
+- [Safariで「Score API」が表示された画面](./images/ss_score.png)
 
 画像にIPアドレスが写っている場合は、隠してから載せる。
