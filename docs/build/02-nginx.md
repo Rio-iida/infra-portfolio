@@ -115,7 +115,7 @@
 
 MacのChromeから `ERR_ADDRESS_UNREACHABLE` でアクセスできなかった。サーバー側から順に切り分けた結果、サーバーは正常で、macOSのローカルネットワーク制限によるChrome側の問題と判明した。詳細は障害報告書を参照。
 
-- [docs/incidents/[ファイル名].md](../incidents/[ファイル名].md)
+- [docs/incidents/[ファイル名].md](../incidents/2026_11_21.md)
 
 以降の動作確認は、Safariとターミナルの `curl` で行う。
 
