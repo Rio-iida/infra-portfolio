@@ -4,10 +4,12 @@ multipass 1.17.0+mac
 git version 2.50.1 (Apple Git-155)
 
 **0.初期設定**
+
 Multipassのインストール
 SSH鍵の作成
 
 **1.Githubとの連携**
+
 GithubとのSSH接続設定
 cloneでローカルにGithubのリポジトリをコピーして、必要なフォルダとファイルを作成してGithubに反映
 
@@ -20,6 +22,7 @@ script ~/Documents/TerminalLogs/$(date '+%Y-%m-%d_%H-%M-%S')-session.log
 作業終了時にexitを入力
 
 **2.仮想サーバーの作成**
+
 MultipassでUbuntu 24.04 LTSの仮想マシン web01(CPU 2、メモリ 2GB、ディスク 20GB)を作成
 web01の ubuntu ユーザーの ~/.ssh/authorized_keys に、Macの公開鍵を登録
 初回接続時にホスト鍵を確認し、Macの known_hosts に記録した
